@@ -26,16 +26,6 @@ The Jupyter notebook `netflix_analysis.ipynb` contains the following visualizati
 
 - Bar chart showing the number of users per subscription type. Basic has the most subscribers.
 
-### User Age Distribution
-
-- Histogram of user ages showing most users are concentrated in the 20s and 30s age brackets.
-
-- Pie chart of age groups like 20-30 years, 30-40 years etc.
-
-### Revenue Over Time 
-
-- Line chart of monthly revenue over time shows gradual increase in revenue as users joined.
-
 ### Device Usage
 
 - Pivot table and heatmap of mean user age by device type and country.
