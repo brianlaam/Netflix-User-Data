@@ -1,5 +1,3 @@
-Here is a sample README.md file that could be used to describe the data analysis done on the Netflix dataset:
-
 # Netflix User Data Analysis
 
 This project performs exploratory data analysis on the Netflix user dataset to understand usage patterns.
